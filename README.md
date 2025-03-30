@@ -179,3 +179,7 @@ To move to the production environment:
 ## Acknowledgements
 
 - [Safaricom Daraja API Documentation](https://developer.safaricom.co.ke/docs)
+
+## Additional Resources
+
+- [Blog: M-Pesa STK Push API Integration](https://medium.com/@techtinkerbell/integrating-m-pesa-stk-push-with-node-js-a-comprehensive-guide-d75323c679fd)
